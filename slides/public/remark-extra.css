@@ -8,11 +8,11 @@
         font-family: 'Droid Serif';
       }
       h1, h2, h3 {
-        font-family: 'Yanone Kaffeesatz';
+        font-family: 'Menlo';
         font-weight: 400;
         margin-bottom: 0;
       }
-      .remark-slide-content h1 { font-size: 3em; }
+      .remark-slide-content h1 { font-size: 4em; }
       .remark-slide-content h2 { font-size: 2em; }
       .remark-slide-content h3 { font-size: 1.6em; }
       .footnote {
@@ -20,25 +20,25 @@
         bottom: 3em;
       }
       li p { line-height: 1.25em; }
-      .red { color: #fa0000; }
+      .red { color: #000000; }
       .large { font-size: 2em; }
       a, a > code {
-        color: rgb(249, 38, 114);
+        color: rgb(29, 238, 114);
         text-decoration: none;
       }
       code {
-        background: #e7e8e2;
-        border-radius: 5px;
+        background: #f728c2;
+        border-radius: 10px;
       }
       .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
-      .remark-code-line-highlighted     { background-color: #373832; }
+      .remark-code-line-highlighted     { background-color: #000000; }
       .pull-left {
         float: left;
-        width: 47%;
+        width: 97%;
       }
       .pull-right {
         float: right;
-        width: 47%;
+        width: 07%;
       }
       .pull-right ~ p {
         clear: both;
@@ -52,7 +52,7 @@
       }
       .inverse {
         background: #272822;
-        color: #777872;
+        color: #7f7072;
         text-shadow: 0 0 20px #333;
       }
       .inverse h1, .inverse h2 {
